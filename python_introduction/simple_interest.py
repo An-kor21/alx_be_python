@@ -5,4 +5,5 @@ P = principal
 R = rate
 T = time
 I = P * R * T
-print("The simple interest is:", I)
+interest = I
+print("The simple interest is:", interest)
